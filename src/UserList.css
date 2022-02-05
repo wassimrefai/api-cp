@@ -1,0 +1,32 @@
+.d-block {
+    height: 100vh;
+    width: 100%;
+    overflow: hidden;
+  }
+  
+  
+  .caroussel_item_styling {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  
+  
+  
+  .carousel-caption {
+    height: 100vh;
+    display: flex;
+    top: 10%;
+    justify-content: center;
+  }
+  
+  .list__styling{
+      text-align: left;
+  }
+  .list_adress__styling{
+      text-align: right;
+  }
+  .prefix_styling{
+      color:rgb(117, 14, 14);
+      font-weight: bolder;
+  }
